@@ -15,10 +15,10 @@ export default function AppLayout({
             </Head>
             <div className="bg-neutral-100 overflow-hidden flex flex-row">
                 <Sidebar />
-                {/* <div className="flex flex-col flex-1">
-                    <Topbar />
+                <div className="flex flex-col flex-1">
+                    {/* <Topbar /> */}
                     {children}
-                </div> */}
+                </div>
             </div>
             
         </>

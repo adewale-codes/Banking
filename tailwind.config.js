@@ -24,6 +24,7 @@ module.exports = {
         },
         grays: {
           100: '#f8f9fa',
+          200: "#474c64"
         }
       },
       spacing: {
